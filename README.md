@@ -5,8 +5,6 @@
 
 
 
-
-
 - 🌱 I’m currently learning TypeScript and Data Structures
 
 - 📫 How to reach me **kevqwang@gmail.com**
@@ -33,7 +31,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> </a> </p>
+      alt="react" width="40" height="40" /> </a> </a> 
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      </p>
 
 <br>
 
