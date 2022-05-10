@@ -4,9 +4,7 @@
 <br>
 
 
-<br>
 
-<p><img align="right" src="https://github.com/kvnwa/kvnwa/blob/main/animation_500_kxa883sd.gif" alt="kvnwa" /></p>
 
 
 - 🌱 I’m currently learning TypeScript and Data Structures
