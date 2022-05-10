@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kvnwa.kvnwa">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kevin+Wang....;Nice+to+meet+you!&center=true&size=30">
@@ -8,7 +6,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/kevinqwang/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/kevinqwang/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
