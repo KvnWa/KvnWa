@@ -16,6 +16,8 @@
   📚 I’m currently learning TypeScript and Data Structures
   <br>
   📫 How to reach me: <a href="mailto: kevqwang@gmail.com">kevqwang@gmail.com</a>
+  <br>
+  Portfolio: <a href="https://kvn-wang.netlify.app">https://kvn-wang.netlify.app</a>
 </p>
 
 <hr>
